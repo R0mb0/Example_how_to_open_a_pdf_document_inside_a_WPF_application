@@ -4,6 +4,10 @@
 
 - [Sample](https://pdfobject.com/pdf/sample.pdf)
 
+## Framework
+
+- .NET Framework 4.7.2
+
 ## ⚠️ Dependencies ⚠️
 
 ### NuGet
@@ -13,3 +17,4 @@
 ### Used classes
 
 - [MarkupConverter](https://github.com/mmanela/MarkupConverter)
+  - To use this classes is necessary to add the reference to `PresentationFramework.dll`, `PresentationCore.dll` and `WindowsBase.dll`
