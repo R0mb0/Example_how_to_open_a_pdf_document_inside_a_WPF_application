@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "Example_how_to_open_a_pdf_document_inside_a_WPF_application"
+version: 1.0.0
+date-released: 2024-10-22
+url: "https://github.com/R0mb0/Example_how_to_open_a_pdf_document_inside_a_WPF_application"
