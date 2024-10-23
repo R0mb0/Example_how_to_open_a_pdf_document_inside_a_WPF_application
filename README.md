@@ -1,4 +1,4 @@
-# Example how to open a pdf document inside a WPF application maintaining text formatting
+# Example how to open a pdf document inside a WPF application keeping text formatting
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=black)
 
