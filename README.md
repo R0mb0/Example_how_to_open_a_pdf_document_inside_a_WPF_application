@@ -3,6 +3,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=black)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/49ab64b162424237aaf650494870c7b3)](https://app.codacy.com/gh/R0mb0/Example_how_to_open_a_pdf_document_inside_a_WPF_application/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Compilation_Test](https://github.com/R0mb0/Example_how_to_open_a_pdf_document_inside_a_WPF_application/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/R0mb0/Example_how_to_open_a_pdf_document_inside_a_WPF_application/actions/workflows/dotnet-desktop.yml)
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/Example_how_to_open_a_pdf_document_inside_a_WPF_application)
 
